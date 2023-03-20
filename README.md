@@ -13,6 +13,7 @@ Grants aplicados:
 Nome do projeto:
 Pitch:
 Descrição do produto:
+Como testar/compilar o produto:
 Dificuldades:
 Visão de futuro:
 ```
